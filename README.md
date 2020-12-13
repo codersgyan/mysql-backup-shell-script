@@ -1,4 +1,4 @@
-### First create a script file and give this file executable permission.
+First create a script file and give this file executable permission.
 
 ```
 cd /etc/cron.daily/
