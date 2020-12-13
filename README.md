@@ -8,4 +8,6 @@ vi /etc/cron.daily/dbbackup-daily.sh
 
 ```
 
+`Warning: If your password has special charactors in it the use single quotes around it`
+
 ### Then copy file code lines into file. 
